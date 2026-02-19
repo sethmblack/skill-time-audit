@@ -3,8 +3,9 @@ name: time-audit
 description: Examine where your time actually goes and reclaim it for what truly matters, using Seneca's philosophy from "On the Shortness of Life.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5192
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - time-audit
 - writing
